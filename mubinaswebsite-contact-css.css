@@ -1,0 +1,99 @@
+.bar {
+  background-color: rgb(90, 170, 195);
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+.bar li {
+  margin: 0 10px;
+}
+
+#home {
+  display: flex;
+  color:#93ffff;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+#skills{
+    display: flex;
+    color:#93ffff;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+#experience{
+    display: flex;
+    color:#93ffff;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+body{
+    background-color:#93ffff
+}
+
+.email-img{
+    position: fixed;
+    width: 10%;
+    height: auto;
+    left: 200px;
+    top: 200px;
+}
+
+.email{
+    display: flex;
+    text-align: center;
+    color: rgb(90, 170, 195);
+    position: relative;
+    list-style: none;
+    left: 60px;
+    top: 350px;
+    font-size: 15px;
+    font-family: "Lucida Bright ", Georgia, sans-serif;
+}
+
+.phone-img{
+    position: fixed;
+    width: 50px;
+    left: 650px;
+    top: 200px;
+}
+
+.phone{
+    display: flex;
+    text-align: center;
+    color:rgb(90, 170, 195);
+    position: relative;
+    left: 650px;
+    top: 270px;
+    font-size: 20px;
+    font-family: "Lucida Bright ", Georgia, sans-serif;
+}
+
+.linkedin-img{
+    position: fixed;
+    width: 50px;
+    left: 1090px;
+    top: 200px;
+}
+
+.linkedin{
+    display: flex;
+    text-align: center;
+    position: relative;
+    color: rgb(90, 170, 195);
+    left: 1150px;
+    top: 190px;
+    font-size: 20px;
+    font-family: "Lucida Bright ", Georgia, sans-serif;
+}
+
+.miku{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}

@@ -1,0 +1,71 @@
+.bar {
+  background-color: purple;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+.bar li {
+  margin: 0 10px;
+}
+
+#skills {
+  display: flex;;
+  color: wheat;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+#experience{
+    display: flex;;
+    color: wheat;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+#contact{
+    display: flex;;
+    color: wheat;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+body{
+    background-color: plum;
+}
+h1{ 
+    color:wheat;
+    font-family: "Lucida Bright ", Georgia, sans-serif;
+    text-shadow: 2px 2px rgb(235, 140, 15);
+    text-align: center;
+}
+p{
+    color:palegoldenrod;
+    font-family: "American Typewriter", serif;
+    font-weight:900;
+    font-size: large;
+    text-align: center;
+    line-height: 2.5;
+    margin-left: auto;
+    width: 50%;
+}
+a{
+    color: blueviolet;
+}
+.usagi{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+.me{
+    position: fixed;
+    width: 500px;
+    top: 130px;
+    left: 180px;
+}
+.me img{
+    width: 500px;
+    height: auto;
+}

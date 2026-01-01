@@ -1,0 +1,91 @@
+.bar {
+  background-color:#ddbc89 ;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+.bar li {
+  margin: 0 10px;
+}
+
+#home {
+  display: flex;;
+  color: #aa512f;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+#skills{
+    display: flex;;
+    color: #aa512f;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+#contact{
+    display: flex;;
+    color: #aa512f;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+body{
+  background-color:#aa512f; 
+}
+
+.experience{
+  background-color:#ddbc89;
+  text-align: center;
+  color: #aa512f;
+  font-family: "Lucida Bright", Georgia, sans-serif;
+  font-size: 20px;
+  display: inline-block;
+  position: fixed;
+  left: 200px;
+}
+
+.experience ul{
+  list-style: none;
+}
+
+#reli-teacher{
+  font-weight: bold;
+}
+
+#reli-teacher-desc{
+  font-weight: normal;
+}
+
+#marifa-teacher{
+  font-weight: bold;
+}
+
+#marifa-teacher-desc{
+  font-weight: normal;
+}
+
+#tutor{
+  font-weight: bold;
+}
+
+#tutor-desc{
+  font-weight: normal;
+}
+
+#online-tutor{
+  font-weight: bold;
+}
+
+#online-tutor-desc{
+  font-weight: normal;
+}
+
+.rilakkuma{
+  position: relative;
+  top: 370px;
+  left: 600px;
+}
+
