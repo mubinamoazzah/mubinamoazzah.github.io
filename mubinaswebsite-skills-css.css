@@ -1,1 +1,115 @@
 
+
+.bar {
+  background-color:rgb(252,159,177);
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+.bar li {
+  margin: 0 10px;
+}
+
+#home {
+  display: flex;;
+  color: olive;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+#experience{
+    display: flex;;
+    color: olive;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+#contact{
+    display: flex;;
+    color: olive;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+body{
+    background-color: pink;
+}
+
+.boxone{
+    background-color: rgb(252,159,177);
+    border: 5px rgb(252,159,177);
+    color: olive;
+    font-weight: 900;
+    font-size: 40px;
+    position: relative;
+    left: 50px;
+    top: 60px;
+    list-style: none;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    text-shadow: 2px 2px rgb(197, 217, 204);
+    font-family: "Lucida Bright ", Georgia, sans-serif;
+}
+.boxone li{
+    position: relative;
+    top: 30px;
+}
+
+.innerboxone{
+    background-color: rgb(252,186,203);
+    border: 2px rgb(252,186,203);
+    margin-left: 70px;
+    color: olive;
+    font-size: 30px;
+    list-style: none;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 100px;
+    right: 200x;
+    text-shadow: none;
+    font-family: "American Typewriter", serif;
+    
+}
+.boxtwo{
+    background-color: rgb(252,159,177);
+    color: olive;
+    font-weight: 900;
+    font-size: 40px;
+    position: relative;
+    bottom: 455px;
+    left: 850px;
+    list-style: none;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    text-shadow: 2px 2px rgb(197, 217, 204);
+    font-family: "Lucida Bright ", Georgia, sans-serif;
+}
+.boxtwo li{
+    position: relative;
+    top: 30px;
+}
+.innerboxtwo{
+    background-color: rgb(252,186,203);
+    color: olive;
+    font-weight: 900;
+    font-size: 30px;
+    list-style: none;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 100px;
+    right: 100px;
+    text-shadow: none;
+    font-family: "American Typewriter", serif;
+}
+.kitty{
+    position: fixed;
+    top:170px;
+    left: 540px;
+}
